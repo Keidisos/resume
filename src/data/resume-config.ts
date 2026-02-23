@@ -90,6 +90,10 @@ export const resumeConfig: ResumeConfig = {
       techs: ['Analyse de risque', 'Gestion de crise'],
       isHighlighted: true,
       details: {
+        context: {
+          fr: 'Alternance au sein de l\'équipe cybersécurité',
+          en: 'Apprenticeship within the cybersecurity team',
+        },
         tasks: {
           fr: [
             'Gestion d\'incidents SI',
@@ -103,6 +107,10 @@ export const resumeConfig: ResumeConfig = {
             'User training on best practices',
             'Cybersecurity risk analysis',
           ],
+        },
+        env: {
+          fr: 'Outils de gestion de crise et d\'analyse de risques',
+          en: 'Crisis management and risk analysis tools',
         },
       },
     },
@@ -118,6 +126,10 @@ export const resumeConfig: ResumeConfig = {
       },
       techs: ['Réseaux', 'Systèmes', '4G Privée'],
       details: {
+        context: {
+          fr: 'Alternance en administration d\'infrastructures IT',
+          en: 'Apprenticeship in IT infrastructure administration',
+        },
         tasks: {
           fr: [
             'Gestion des incidents',
@@ -131,6 +143,10 @@ export const resumeConfig: ResumeConfig = {
             'Project management',
             'Deployment of a private 4G infrastructure',
           ],
+        },
+        env: {
+          fr: 'Systèmes & Réseaux, infrastructure 4G',
+          en: 'Systems & Networks, 4G infrastructure',
         },
       },
     },
@@ -146,6 +162,10 @@ export const resumeConfig: ResumeConfig = {
       },
       techs: [],
       details: {
+        context: {
+          fr: 'Job étudiant en magasin',
+          en: 'Student job in retail',
+        },
         tasks: {
           fr: [
             'Gestion des stocks',
@@ -155,6 +175,10 @@ export const resumeConfig: ResumeConfig = {
             'Stock management',
             'Creation and study of quotes',
           ],
+        },
+        env: {
+          fr: 'Logiciels de caisse et de devis',
+          en: 'Checkout and quoting software',
         },
       },
     },
