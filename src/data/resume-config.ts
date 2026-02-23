@@ -65,8 +65,11 @@ export const resumeConfig: ResumeConfig = {
       title: { fr: 'Systèmes & Réseaux', en: 'Systems & Networks' },
       type: 'badges',
       items: [
-        { name: 'Administration SI' },
+        { name: 'Administration' },
         { name: '4G Privée' },
+        { name: 'Routing' },
+        { name: 'Switching' },
+        { name: 'Firewalling' },
       ],
     },
     {
