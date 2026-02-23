@@ -25,6 +25,7 @@ export const resumeConfig: ResumeConfig = {
   },
   contact: [
     { type: 'linkedin', label: 'Matéo Hirsch', href: 'https://www.linkedin.com/in/matéo-hirsch' },
+    { type: 'github', label: 'Keidisos', href: 'https://github.com/Keidisos' },
     { type: 'email', label: 'hirschmateo.mh@gmail.com' },
     { type: 'phone', label: '06 79 96 79 56' },
     { type: 'location', label: 'Couthenans, France' },
